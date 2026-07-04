@@ -1,0 +1,5 @@
+Biblioteca Cere - Pendientes v2
+1) Alojar las imagenes PNG en una URL publica (GitHub raw, SharePoint/OneDrive publico, web propia).
+2) Completar la columna url del manifest_cere_pendientes.csv.
+3) Cargar el manifest en Power BI y marcar el campo url como Categoria de datos: URL de imagen.
+4) Relacionar o filtrar segun el estado calculado por las medidas DAX.
